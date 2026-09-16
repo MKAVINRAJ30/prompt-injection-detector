@@ -1,0 +1,4 @@
+Model,Accuracy,Precision (Macro),Recall (Macro),F1-Score (Macro),Precision (Weighted),Recall (Weighted),F1-Score (Weighted)
+Logistic Regression,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Linear SVM,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Random Forest,0.998567335243553,0.99867197875166,0.9986338797814208,0.9986502013085397,0.998573043071268,0.998567335243553,0.9985672941403251
